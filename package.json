@@ -1,0 +1,19 @@
+{
+  "name": "outer-dimensions",
+  "version": "1.0.0",
+  "description": "Get the outer dimensions of an element, including margins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewLarner/outer-dimensions.git"
+  },
+  "author": "Matt Larner <matt.larner.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewLarner/outer-dimensions/issues"
+  },
+  "homepage": "https://github.com/matthewLarner/outer-dimensions#readme"
+}
